@@ -1,0 +1,33 @@
+@charset "utf-8";
+*{
+    border: 0;
+	margin: 0;
+	padding: 0; 
+	font-family: 'Open Sans','Microsoft YaHei',宋体,Arial, sans-serif;
+	font-weight: 300;
+    font-size: 14px;
+}
+
+ul, li, dl, dt, dd, img, h1, h2, h3, h4, h5, h6, p, a, textarea, input, span, div, i, time, article,header {
+	border: 0;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+}
+
+
+i {
+	font-style: normal;
+}
+
+
+
+.table-bg{
+    background-color: white;
+    padding: 20px;
+    margin:16px 0;
+}
+.el-dialog__header {
+    border-bottom: 1px solid #ddd;
+  }
